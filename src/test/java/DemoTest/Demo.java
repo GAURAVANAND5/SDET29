@@ -12,6 +12,8 @@ public class Demo {
 		System.out.println("Hi this is User 2 first commit");
 		
 		System.out.println("Hi this is User 1 second commit");
+		
+		System.out.println("Hi this is User 2 SECOND commit");
 	}
 
 }
