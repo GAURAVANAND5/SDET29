@@ -14,6 +14,9 @@ public class Demo {
 		System.out.println("Hi this is User 1 second commit");
 		
 		System.out.println("hI THIS IS USER1 third commit-- git conflict resolved");
+
+		System.out.println("Hi this is User 2 SECOND commit");
+
 	}
 
 }
